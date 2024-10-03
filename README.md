@@ -3,6 +3,10 @@
 ## Objetivo:
 O projeto visa analisar os dados de vendas de uma empresa, focando em métricas essenciais como leads, receita, conversão e ticket médio. A ideia é transformar dados em insights para tomadas de decisão estratégicas e otimizar os resultados. 🚀
 
+## Schemas:
+
+![image](https://github.com/user-attachments/assets/90ef25b3-3c98-4185-990d-5c39b2ee6aba)
+
 ## O que foi feito:
 ### Receita, leads, conversão e ticket médio mês a mês 💰
 
