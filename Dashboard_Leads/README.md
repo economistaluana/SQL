@@ -1,6 +1,9 @@
 # 📊 Projeto: Análise de Leads e Veículos 🛠️
 Neste projeto, realizei uma análise completa de leads e veículos para entender melhor o comportamento dos nossos clientes. O objetivo foi criar uma série de queries SQL para extrair informações detalhadas de um banco de dados e visualizar os dados de maneira clara em um dashboard criado no Excel.
 
+![image](https://github.com/user-attachments/assets/efcf9585-3089-4744-a05c-fddf471ae1ec)
+
+
 ## 👩‍💻 Ferramentas Utilizadas:
 PostgreSQL para a manipulação dos dados.
 PgAdmin como interface para executar as queries SQL.
